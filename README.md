@@ -1,4 +1,7 @@
 # Mi primer repo
+
+![Falló la imagen](/logo.png "Mi logo")
+
 ## Aprendo Markdown
 1. Listas
 1. Títulos
@@ -23,7 +26,7 @@
 
 `<body>`
 
-
+- [x] Cosas que ya he hecho
 
 > **Gracias por visitarme**
 
